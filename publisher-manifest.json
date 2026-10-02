@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "965e119625ee9afd37bf3a39",
+  "owner": "fcak4dfp",
+  "repo": "page-cb886b063ed969d564175f55",
+  "title": "纷达网络(Fenda)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cb886b063ed969d564175f55",
+      "a": "纷达网络(Fenda)",
+      "b": "",
+      "entity": "纷达网络(Fenda)",
+      "brand": "纷达网络(Fenda)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f37377517fa831323c6f31f16c38b4a3f15b1cdaca7b944f5b636b51192cb405",
+      "content": {
+        "keyword1": "纷达网络(Fenda)",
+        "keyword2": "",
+        "primary_entity": "纷达网络(Fenda)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "纷达网络(Fenda)官方网站提供机场订阅、VPN加速器与多端客户端下载指引，覆盖流媒体解锁、IPLC游戏加速及团队组网，套餐透明、节点稳定，欢迎通过官网获取正版服务。",
+          "AI_DESCRIPTION": "纷达网络(Fenda)官方网站提供机场订阅、VPN加速器与多端客户端下载指引，覆盖流媒体解锁、IPLC游戏加速及团队组网，套餐透明、节点稳定，欢迎通过官网获取正版服务。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#061525;color:#d7eef7;font-size:16px;line-height:1.65;overflow-x:hidden}a{color:#2ad4e0;text-decoration:none}header{background:#081a33;border-bottom:3px solid #00c4cc;padding:14px 16px}.wrap{max-width:980px;margin:0 auto;padding:0 16px}.brand{font-weight:700;color:#5ef0ff;font-size:1.15rem}nav{margin-top:10px;display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#9be7ef;font-size:0.95rem}main{padding:20px 0 40px}h1{font-size:1.7rem;line-height:1.35;color:#7af6ff;margin:12px 0 16px}h2{font-size:1.35rem;color:#4dd0e1;margin:28px 0 12px;padding-left:10px;border-left:4px solid #00bcd4}h3{font-size:1.1rem;color:#80deea;margin:16px 0 8px}p,li{margin:0 0 10px}.split{display:flex;flex-wrap:wrap;gap:20px;align-items:flex-start;margin:16px 0 28px}.split.reverse{flex-direction:row-reverse}.panel{flex:1 1 300px;background:#0b2744;border:1px solid #165a72;padding:16px 18px;border-radius:6px}.plans{display:flex;flex-wrap:wrap;gap:16px;margin:16px 0}.plan{flex:1 1 250px;background:#0b2744;border:1px solid #1a5d78;padding:18px;border-radius:6px}.plan.featured{border:2px solid #00e5ff;background:#0e3054}.tag{display:inline-block;background:#00acc1;color:#04202c;font-size:0.75rem;font-weight:700;padding:2px 8px;border-radius:3px;margin-bottom:8px}.price{font-size:1.45rem;color:#00e5ff;font-weight:700}.subprice{font-size:0.88rem;color:#80cbc4;margin:4px 0 10px}.plan ul,.scenes ul{margin:0;padding-left:1.15em}ol{padding-left:1.2em}details{background:#0b2744;border:1px solid #196078;padding:12px 14px;margin:10px 0;border-radius:6px}summary{color:#b2ebf2;font-weight:600}details p{margin:10px 0 0;color:#cfe8f0}footer{background:#071320;border-top:2px solid #0e4a5c;padding:24px 16px 32px;font-size:0.92rem;color:#9bb8c4}footer h2{font-size:1.1rem;margin-top:8px}.links{display:flex;flex-wrap:wrap;gap:8px 16px;margin:8px 0 16px}.adbox{background:#0a2238;border:1px dashed #1a6a80;padding:14px;margin:12px 0;color:#8fb4c0}.note{font-size:0.88rem;color:#8fb9c6}</style><header><div class=\"wrap\"><div class=\"brand\">纷达网络(Fenda) 官方网站</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐价格</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main class=\"wrap\"><h1>纷达网络(Fenda) 官方网站 · 机场订阅与VPN加速客户端</h1><p>纷达网络(Fenda)面向个人与团队提供机场订阅与 VPN 梯子网络加速服务。本页为官方网站说明，集中介绍套餐、节点用途、客户端下载与导入步骤，便于你在合规前提下完成加速器配置。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"split\"><div class=\"panel\"><p>纷达网络(Fenda)定位为可订阅的网络加速与机场服务：用户按套餐获取订阅，在常用客户端中导入后选择节点，用于跨境访问、流媒体播放与延迟敏感业务。</p><p>官网只提供套餐说明、操作路径与官方下载指引，不捆绑来路不明的安装包。选择套餐时请对照流量、同时在线设备数以及是否需要 IPLC 游戏向线路。</p></div><div class=\"panel\"><h3>服务要点</h3><ul><li>机场订阅一键导入主流客户端</li><li>按月与按年计费，年付更省</li><li>基础流媒体到全节点原生解锁分层提供</li><li>旗舰与团队含 IPLC 专线游戏加速优化</li><li>团队版支持更多终端与定制路由沟通</li></ul></div></div></section><section id=\"plans\"><h2>套餐与价格</h2><p>以下为纷达网络(Fenda)现行公开套餐，价格与权益以官网展示为准。旗舰版适合多数个人用户，团队版面向多设备协作。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"subprice\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"subprice\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"subprice\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"split reverse\"><div class=\"panel scenes\"><h3>日常与内容</h3><ul><li>海外资讯站点与公开资料检索</li><li>基础或全节点流媒体节目播放（视套餐）</li><li>跨境会议、远程桌面与云盘同步</li></ul></div><div class=\"panel scenes\"><h3>效率与协作</h3><ul><li>游戏与实时对战走 IPLC 优化线路（旗舰/团队）</li><li>多终端共用同一订阅，注意设备数上限</li><li>团队版可用于统一出口与路由沟通</li></ul></div></div><p class=\"note\">请遵守当地法律法规及目标网站条款。纷达网络(Fenda)提供的是连接能力与节点质量，不代替你对访问内容负责。</p></section><section id=\"guide\"><h2>操作说明</h2><div class=\"split\"><div class=\"panel\"><h3>开通与使用顺序</h3><ol><li>在官网确认套餐流量、设备数与线路类型。</li><li>完成订购后进入用户中心复制机场订阅地址。</li><li>按系统下载对应客户端（见下方下载说明）。</li><li>在客户端选择订阅/URL 导入，更新节点列表。</li><li>按延迟或用途选择节点，开启系统代理或 Tun 模式。</li></ol></div><div class=\"panel\"><h3>连接建议</h3><p>网页浏览可用普通线路；4K 流媒体优先原生解锁节点；对延迟敏感的对局使用带 IPLC 标识的游戏向节点。若导入失败，先核对客户端版本与订阅是否完整复制。</p><p>同一订阅在超过套餐设备数时可能互相挤占会话，请按实际终端选择基础版、旗舰版或团队版。</p></div></div></section><section id=\"download\"><h2>客户端下载与导入</h2><p>纷达网络(Fenda)官方下载入口以本站说明为准。请从正规客户端项目获取安装包，再用机场订阅导入，避免来源不明的“一键加速器”。</p><div class=\"split reverse\"><div class=\"panel\"><h3>桌面端</h3><p>Windows / macOS 可使用 Clash Meta 内核图形客户端或 v2rayN 等。导入方式一般为「订阅 → 新建 → 粘贴 URL → 更新」。开启系统代理后，再在规则模式中选择规则或全局。</p><p><a href=\"#download\">前往桌面客户端说明锚点</a></p></div><div class=\"panel\"><h3>移动端</h3><p>iOS 常用 Shadowrocket、Stash 等；Android 可用 Clash Meta for Android。导入同样粘贴订阅链接。移动网络下建议先测延迟再锁定常用节点。</p><p><a href=\"#guide\">返回操作说明</a></p></div></div><p class=\"note\">本页不托管安装包文件。认准纷达网络(Fenda)官网文案与用户中心订阅，再配合上述客户端完成配置。</p></section><section id=\"faq\"><h2>常见问题</h2><p>以下问题按官网实际开通流程整理，展开即可阅读完整说明。</p><details><summary>纷达网络(Fenda)是机场还是单机加速器？</summary><p>纷达网络(Fenda)以机场订阅为主：一套餐对应订阅链接，可在多款 VPN/梯子客户端中导入节点。它不是捆绑广告的单机加速器，官方网站只提供套餐、节点用途与客户端下载指引。</p></details><details><summary>如何完成官方客户端下载并导入订阅？</summary><p>先在用户中心复制订阅 URL，再按系统选择 Clash Meta、v2rayN、Shadowrocket 等正规客户端安装。打开软件后使用「订阅/URL」粘贴并更新。不要下载来路不明的改包。详细步骤见本页「客户端下载与导入」。</p></details><details><summary>基础版、旗舰版、团队版怎样选？</summary><p>轻度浏览与基础流媒体选基础版（100GB / 3 设备）。需要全节点原生流媒体、IPLC 游戏优化和优先工单选旗舰版（300GB / 5 设备）。多终端、高流量或需要定制路由沟通选团队版（1000GB / 20 设备）。</p></details><details><summary>流量与同时在线设备如何计算？</summary><p>流量按套餐周期内实际代理消耗累计，含上下行。同时在线设备数按有效会话估算：基础版 3 台、旗舰版 5 台、团队版 20 台。长时间挂机或重复登录可能占用名额，闲置设备请断开。</p></details><details><summary>能否解锁流媒体或降低游戏延迟？</summary><p>基础版覆盖基础流媒体。旗舰版与团队版提供全节点原生流媒体解锁；游戏方面，旗舰与团队含 IPLC 专线游戏加速优化，适合对延迟更敏感的对局。实际效果仍受本地宽带与目标服地区影响。</p></details><details><summary>节点连不上或订阅更新失败怎么办？</summary><p>检查系统时间是否准确、客户端是否最新、订阅是否完整复制。尝试更换网络（例如蜂窝与宽带互切）或切换规则/全局模式。旗舰与团队用户可通过优先工单或客户经理通道反馈节点与线路问题。</p></details><details><summary>本站是否为纷达网络(Fenda)官方网站？</summary><p>是。请通过官网核对套餐名称、价格与权益后再订阅。下载客户端时遵循本页给出的软件类型，导入官方订阅即可使用网络加速与机场节点，不必寻找第三方镜像站。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><section id=\"sitemap\"><h2>网站地图</h2><div class=\"links\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐价格</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></div></section><section><h2>广告</h2><div class=\"adbox\">品牌合作展示位：仅用于官网版式说明与合规推广文案，不跳转外部下载站，也不放置脚本广告。</div></section><section><h2>友情链接</h2><div class=\"links\"><a href=\"#\">客户端配置手册</a><a href=\"#\">订阅导入指南</a><a href=\"#\">流媒体解锁备忘</a><a href=\"#\">规则模式说明</a></div></section><p>© 纷达网络(Fenda) 官方网站 · 机场订阅与 VPN 加速器说明。请通过官网获取套餐信息与客户端下载指引。</p></div></footer>",
+          "hash": "0c76a32c8c408e20e6011f2039697e34ebf4a914278161238105a16ba38cdcfe",
+          "seo": {
+            "title": "纷达网络(Fenda)官网 | VPN梯子网络加速与机场客户端下载",
+            "keywords": "纷达网络,Fenda,纷达网络官网,Fenda机场,VPN加速器,梯子,网络加速,客户端下载,官方下载,机场订阅,Clash",
+            "description": "纷达网络(Fenda)官方网站提供机场订阅、VPN加速器与多端客户端下载指引，覆盖流媒体解锁、IPLC游戏加速及团队组网，套餐透明、节点稳定，欢迎通过官网获取正版服务。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lvuyzei.cn",
+    "host": "p-bfcd568c29.lvuyzei.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "lvuyzei.cn",
+      "url": "https://lvuyzei.cn/",
+      "label": "ARK",
+      "apex": "lvuyzei.cn",
+      "kind": null,
+      "identity": "ssxywc54xcv/page-288e9e478ad96f1f053f630d"
+    },
+    {
+      "host": "donglanrc.cn",
+      "url": "https://donglanrc.cn/",
+      "label": "纷达网络(Fenda)",
+      "apex": "donglanrc.cn",
+      "kind": null,
+      "identity": "amjgaa/page-ed17679bfb968c26a027a6b6"
+    },
+    {
+      "host": "lichengrc.cn",
+      "url": "https://lichengrc.cn/",
+      "label": "纷达网络(Fenda)",
+      "apex": "lichengrc.cn",
+      "kind": null,
+      "identity": "bpqdvaagak/page-eda01787011abd22f41759eb"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "591ddf3df9ec158919833cba85b37dab7d5d38be3380ab7bae04e81d7d02828c",
+    "sitemap.xml": "c48055828ec57cd94c8dbd5dc587805cb44fa6bf9f1beed7fb8d8e077f9bb44d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d67cee38311cb205ec22735d7e955fa42ef804d13b11c57f4901f0b5f056b677",
+    "robots.txt": "578f82940bd9c7ee09f8c7fc9a7574f09f0c1e7513822f9ab1c5ee3fb0be44ef",
+    "2b034eba99640406e2dea726e8e05259.txt": "f880157f958e87415610a61381e3f43ad94eab556ebb9245828aec06121166f2"
+  },
+  "revision": "9761c487cdecf63f5c382a58c2520c40684aff6d012b7de353be57a46b482508"
+}
